@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 10px;
+}
+div {
+    width: 232px;
+    height: 297px;
+    top: 9px;
+    left: 10px;
+    border: 2px solid;
+    overflow: scroll;
+    z-index: 1;
+}
+
+img {
+    float: right;
+    width: 560px;
+    height: 646.53px;
+    top: 10px;
+    position: absolute;
+    z-index: 2;
+    justify-content: top;
+    left: 650px;
+}
